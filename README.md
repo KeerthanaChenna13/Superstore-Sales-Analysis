@@ -12,8 +12,6 @@ This project focuses on analyzing Superstore sales data using Microsoft Power BI
 
 ## Tools Used
 - Microsoft Power BI
-- Power Query
-- DAX
 - Superstore Sales Dataset
 
 ## Dashboard Features
